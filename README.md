@@ -3,9 +3,12 @@
 
 # 💫 About Me:
 
-- 🌱 I’m a Full stack Java developer
+- 🌱 I’m a Full stack **Java developer**
+  
 - 🔭 I’m currently working on developing full stack projects
+  
 - 💬 Ask me about Spring boot
+  
 - ⚡ Fun fact - I am lazy but smart
 
 ## 🌐 Socials:
